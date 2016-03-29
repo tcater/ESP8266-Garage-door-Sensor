@@ -1,0 +1,4 @@
+2016-03-27 12:32:15 The garage door is closed
+2016-03-27 20:03:49 The garage door is closed
+2016-03-28 08:56:24 The garage door is closed
+2016-03-28 16:55:44 The garage door is closed
